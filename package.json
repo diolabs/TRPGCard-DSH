@@ -1,6 +1,6 @@
 {
   "name": "trpgcard",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "在 DeepSeek Harness 中使用现有 TRPGCard 主持人页面与工具",
   "homepage": "https://github.com/diolabs/TRPGCard-DSH#readme",
