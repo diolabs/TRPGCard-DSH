@@ -1,9 +1,13 @@
 {
-  "name": "@trpgcard/dsh-gm",
-  "version": "0.1.0",
-  "private": true,
+  "name": "trpgcard",
+  "version": "0.1.1",
   "type": "module",
   "description": "在 DeepSeek Harness 中使用现有 TRPGCard 主持人页面与工具",
+  "homepage": "https://github.com/diolabs/TRPGCard-DSH#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diolabs/TRPGCard-DSH.git"
+  },
   "main": "lib/index.js",
   "exports": {
     ".": "./lib/index.js",
