@@ -1,0 +1,4 @@
+- insert:
+    - id: trpgcard-gm
+      name: "@trpgcard/dsh-gm"
+      config: {}
